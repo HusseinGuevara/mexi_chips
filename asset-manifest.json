@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mexi_chips/static/css/main.81601aea.chunk.css",
+    "main.css": "/mexi_chips/static/css/main.83b04f6a.chunk.css",
     "main.js": "/mexi_chips/static/js/main.7767c163.chunk.js",
     "main.js.map": "/mexi_chips/static/js/main.7767c163.chunk.js.map",
     "runtime-main.js": "/mexi_chips/static/js/runtime-main.7898ac32.js",
@@ -10,7 +10,7 @@
     "static/js/3.21f1cdf1.chunk.js": "/mexi_chips/static/js/3.21f1cdf1.chunk.js",
     "static/js/3.21f1cdf1.chunk.js.map": "/mexi_chips/static/js/3.21f1cdf1.chunk.js.map",
     "index.html": "/mexi_chips/index.html",
-    "static/css/main.81601aea.chunk.css.map": "/mexi_chips/static/css/main.81601aea.chunk.css.map",
+    "static/css/main.83b04f6a.chunk.css.map": "/mexi_chips/static/css/main.83b04f6a.chunk.css.map",
     "static/js/2.4f224854.chunk.js.LICENSE.txt": "/mexi_chips/static/js/2.4f224854.chunk.js.LICENSE.txt",
     "static/media/black_yellow_round_logo.da47c372.png": "/mexi_chips/static/media/black_yellow_round_logo.da47c372.png",
     "static/media/App.css": "/mexi_chips/static/media/mexi_chips_cropped.08f8cace.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.7898ac32.js",
     "static/js/2.4f224854.chunk.js",
-    "static/css/main.81601aea.chunk.css",
+    "static/css/main.83b04f6a.chunk.css",
     "static/js/main.7767c163.chunk.js"
   ]
 }
