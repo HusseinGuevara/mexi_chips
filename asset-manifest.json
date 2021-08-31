@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mexi_chips/static/css/main.bfe29dc4.chunk.css",
-    "main.js": "/mexi_chips/static/js/main.d9a51d50.chunk.js",
-    "main.js.map": "/mexi_chips/static/js/main.d9a51d50.chunk.js.map",
+    "main.js": "/mexi_chips/static/js/main.19419b05.chunk.js",
+    "main.js.map": "/mexi_chips/static/js/main.19419b05.chunk.js.map",
     "runtime-main.js": "/mexi_chips/static/js/runtime-main.7898ac32.js",
     "runtime-main.js.map": "/mexi_chips/static/js/runtime-main.7898ac32.js.map",
     "static/js/2.4f224854.chunk.js": "/mexi_chips/static/js/2.4f224854.chunk.js",
@@ -14,8 +14,10 @@
     "static/js/2.4f224854.chunk.js.LICENSE.txt": "/mexi_chips/static/js/2.4f224854.chunk.js.LICENSE.txt",
     "static/media/IMG02765.3b6a1788.jpg": "/mexi_chips/static/media/IMG02765.3b6a1788.jpg",
     "static/media/IMG02789.099412f6.jpg": "/mexi_chips/static/media/IMG02789.099412f6.jpg",
+    "static/media/IMG02795.0914cdaa.jpg": "/mexi_chips/static/media/IMG02795.0914cdaa.jpg",
     "static/media/IMG02796.de8fc56a.jpg": "/mexi_chips/static/media/IMG02796.de8fc56a.jpg",
     "static/media/IMG02798.8f483af1.jpg": "/mexi_chips/static/media/IMG02798.8f483af1.jpg",
+    "static/media/IMG02818.d5d3553f.jpg": "/mexi_chips/static/media/IMG02818.d5d3553f.jpg",
     "static/media/black_yellow_round_logo.da47c372.png": "/mexi_chips/static/media/black_yellow_round_logo.da47c372.png",
     "static/media/App.css": "/mexi_chips/static/media/mexi_chips_cropped.08f8cace.jpg",
     "static/media/new_family.908d94a2.jpg": "/mexi_chips/static/media/new_family.908d94a2.jpg",
@@ -25,6 +27,6 @@
     "static/js/runtime-main.7898ac32.js",
     "static/js/2.4f224854.chunk.js",
     "static/css/main.bfe29dc4.chunk.css",
-    "static/js/main.d9a51d50.chunk.js"
+    "static/js/main.19419b05.chunk.js"
   ]
 }
