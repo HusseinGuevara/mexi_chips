@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mexi_chips/static/css/main.80e2682a.chunk.css",
-    "main.js": "/mexi_chips/static/js/main.69bec0aa.chunk.js",
-    "main.js.map": "/mexi_chips/static/js/main.69bec0aa.chunk.js.map",
-    "runtime-main.js": "/mexi_chips/static/js/runtime-main.7898ac32.js",
-    "runtime-main.js.map": "/mexi_chips/static/js/runtime-main.7898ac32.js.map",
-    "static/js/2.4f224854.chunk.js": "/mexi_chips/static/js/2.4f224854.chunk.js",
-    "static/js/2.4f224854.chunk.js.map": "/mexi_chips/static/js/2.4f224854.chunk.js.map",
-    "static/js/3.21f1cdf1.chunk.js": "/mexi_chips/static/js/3.21f1cdf1.chunk.js",
-    "static/js/3.21f1cdf1.chunk.js.map": "/mexi_chips/static/js/3.21f1cdf1.chunk.js.map",
+    "main.js": "/mexi_chips/static/js/main.e8d7935a.chunk.js",
+    "main.js.map": "/mexi_chips/static/js/main.e8d7935a.chunk.js.map",
+    "runtime-main.js": "/mexi_chips/static/js/runtime-main.51cfffdb.js",
+    "runtime-main.js.map": "/mexi_chips/static/js/runtime-main.51cfffdb.js.map",
+    "static/js/2.10fb19e0.chunk.js": "/mexi_chips/static/js/2.10fb19e0.chunk.js",
+    "static/js/2.10fb19e0.chunk.js.map": "/mexi_chips/static/js/2.10fb19e0.chunk.js.map",
+    "static/js/3.7e52ddb6.chunk.js": "/mexi_chips/static/js/3.7e52ddb6.chunk.js",
+    "static/js/3.7e52ddb6.chunk.js.map": "/mexi_chips/static/js/3.7e52ddb6.chunk.js.map",
     "index.html": "/mexi_chips/index.html",
     "static/css/main.80e2682a.chunk.css.map": "/mexi_chips/static/css/main.80e2682a.chunk.css.map",
-    "static/js/2.4f224854.chunk.js.LICENSE.txt": "/mexi_chips/static/js/2.4f224854.chunk.js.LICENSE.txt",
+    "static/js/2.10fb19e0.chunk.js.LICENSE.txt": "/mexi_chips/static/js/2.10fb19e0.chunk.js.LICENSE.txt",
     "static/media/IMG02765.3b6a1788.jpg": "/mexi_chips/static/media/IMG02765.3b6a1788.jpg",
     "static/media/IMG02789.099412f6.jpg": "/mexi_chips/static/media/IMG02789.099412f6.jpg",
     "static/media/IMG02795.0914cdaa.jpg": "/mexi_chips/static/media/IMG02795.0914cdaa.jpg",
@@ -25,9 +25,9 @@
     "static/media/yellow_logo.b935f38a.png": "/mexi_chips/static/media/yellow_logo.b935f38a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7898ac32.js",
-    "static/js/2.4f224854.chunk.js",
+    "static/js/runtime-main.51cfffdb.js",
+    "static/js/2.10fb19e0.chunk.js",
     "static/css/main.80e2682a.chunk.css",
-    "static/js/main.69bec0aa.chunk.js"
+    "static/js/main.e8d7935a.chunk.js"
   ]
 }
