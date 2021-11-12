@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mexi_chips/static/css/main.80e2682a.chunk.css",
-    "main.js": "/mexi_chips/static/js/main.e8d7935a.chunk.js",
-    "main.js.map": "/mexi_chips/static/js/main.e8d7935a.chunk.js.map",
+    "main.js": "/mexi_chips/static/js/main.d22869cb.chunk.js",
+    "main.js.map": "/mexi_chips/static/js/main.d22869cb.chunk.js.map",
     "runtime-main.js": "/mexi_chips/static/js/runtime-main.51cfffdb.js",
     "runtime-main.js.map": "/mexi_chips/static/js/runtime-main.51cfffdb.js.map",
     "static/js/2.10fb19e0.chunk.js": "/mexi_chips/static/js/2.10fb19e0.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.51cfffdb.js",
     "static/js/2.10fb19e0.chunk.js",
     "static/css/main.80e2682a.chunk.css",
-    "static/js/main.e8d7935a.chunk.js"
+    "static/js/main.d22869cb.chunk.js"
   ]
 }
